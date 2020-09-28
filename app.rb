@@ -13,3 +13,4 @@ end
 get '/date' do 
   erb :date
 end
+end
